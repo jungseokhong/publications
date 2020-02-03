@@ -1,6 +1,12 @@
-@article{fulton2018robotic,
-  title={Robotic Detection of Marine Litter Using Deep Visual Detection Models},
-  author={Fulton, Michael and Hong, Jungseok and Islam, Md Jahidul and Sattar, Junaed},
-  journal={arXiv preprint arXiv:1804.01079 Accepted to ICRA 2019},
-  year={2018}
-}
+@INPROCEEDINGS{8793975,
+author={M. {Fulton} and J. {Hong} and M. J. {Islam} and J. {Sattar}},
+booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+title={Robotic Detection of Marine Litter Using Deep Visual Detection Models},
+year={2019},
+volume={},
+number={},
+pages={5752-5758},
+keywords={autonomous underwater vehicles;convolutional neural nets;learning (artificial intelligence);marine engineering;marine pollution;mobile robots;neural net architecture;object detection;robotic detection;marine litter;deep visual detection models;trash deposits;aquatic environments;marine ecosystems;autonomous underwater vehicles;AUV;deep-learning algorithms;convolutional neural network architectures;object detection;trained networks;underwater trash removal;Plastics;Training;Oceans;Data models;Object detection;Visualization;Biological system modeling},
+doi={10.1109/ICRA.2019.8793975},
+ISSN={1050-4729},
+month={May},}
